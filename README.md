@@ -16,3 +16,5 @@ scenario file
 
 ![image](https://github.com/De0nis/Mimic/assets/96110531/7b8dcf57-1185-4945-af7a-a36048f1d82b)
 
+You can resize screensho region 
+
