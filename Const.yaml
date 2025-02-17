@@ -1,4 +1,4 @@
-TARGET_IP : "172.16.178.225"
+TARGET_IP : "172.0.0.1"
 TARGET_PORT : 8080
 TEST_CASE_NAME : "test_connector"
 WIN_NAME : "/winname"
